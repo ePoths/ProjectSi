@@ -29,7 +29,7 @@ function App() {
       <Container>
         <Contents>
           <GraphIMG src={Eximg} alt="" />
-          <div></div>
+          <div>123123</div>
           <GraphDescrip>이 글은 예시용 입니다</GraphDescrip>
         </Contents>
       </Container>
